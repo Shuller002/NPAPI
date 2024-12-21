@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KSi9U3dixgw=",
+  "success": true,
+  "projectFilePath": "D:\\Подработка\\горский\\Gorskiy\\Gorskiy\\Gorskiy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maxga\\.nuget\\packages\\microsoft.openapi\\1.6.22\\microsoft.openapi.1.6.22.nupkg.sha512",
+    "C:\\Users\\maxga\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\7.2.0\\swashbuckle.aspnetcore.swagger.7.2.0.nupkg.sha512",
+    "C:\\Users\\maxga\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\7.2.0\\swashbuckle.aspnetcore.swaggergen.7.2.0.nupkg.sha512",
+    "C:\\Users\\maxga\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\7.2.0\\swashbuckle.aspnetcore.swaggerui.7.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
